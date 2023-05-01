@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Barhoumi Khalil. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://github.com/Snickers-khalil/Snickers-khalil/blob/Master/assets/Hi%202.0.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Snickers-khalil/Snickers-khalil/blob/888635dcc1019da6a7a033e640207ee4b9e5b5db/assets/Hi%202.0.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
