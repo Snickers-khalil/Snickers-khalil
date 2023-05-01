@@ -37,4 +37,4 @@
 &nbsp; <a href="mailto:khalilbarhoumi@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Snickers](https://github.com/Snickers-khalil)
+⭐️ From [Snickers](https://github.com/Snickers-khalil/Snickers.git)
