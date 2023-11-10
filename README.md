@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Barhoumi Khalil. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/Snickers-khalil/Snickers-khalil/blob/888635dcc1019da6a7a033e640207ee4b9e5b5db/assets/Hi%202.0.gif" width="500"/>
-  <img src="https://komarev.com/ghpvc/?username=Rooyca&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
