@@ -26,7 +26,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snickers-khalil&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Snickers-khalil&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
