@@ -26,8 +26,7 @@
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Snickers-khalil&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-![IMG](https://github-readme-stats.vercel.app/api?username=Snickers-khalil&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Snickers-khalil&hide_border=true)](https://git.io/streak-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
