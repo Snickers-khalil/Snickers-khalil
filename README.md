@@ -1,6 +1,5 @@
 <h2> Hey there! I'm Barhoumi Khalil. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://github.com/Snickers-khalil/Snickers-khalil/blob/888635dcc1019da6a7a033e640207ee4b9e5b5db/assets/Hi%202.0.gif" width="500"/>
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -21,6 +20,7 @@
 - 🖥 &nbsp; Figma | Illustrator | Photoshop | Lightroom
 
 <br>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Snickers-khalil&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Bloop's Github Stats">
 
