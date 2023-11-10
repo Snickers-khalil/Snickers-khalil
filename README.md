@@ -16,7 +16,7 @@
 - 💻 &nbsp; Dart | C# | Java | C++ | HTML | CSS | JavaScript 
 - 🌐 &nbsp; Android | flutter | Spring Boot | Angular 
 - 🛢 &nbsp; MySQL | Firebase | SQLite | MongoDB 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git 
+- 🔧 &nbsp; Android Studio | Visual Studio code | Visual Studio | Git 
 - 🖥 &nbsp; Figma | Illustrator | Photoshop | Lightroom
 
 <br>
@@ -33,7 +33,7 @@
 <p align="center">
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/khalil-barhoumi-600b051a2/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:khalilbarhoumi@hotmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
