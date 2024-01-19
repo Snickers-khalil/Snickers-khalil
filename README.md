@@ -26,18 +26,6 @@
 
 </br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Snickers-khalil&theme=onedark&hide_border=true)](https://git.io/streak-stats)
-
-<hr>
-
-### 🏆 Github trophies
-
-<p>
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=Snickers-khalil&margin-w=15theme=dark)
-    
-</p>
-
 <hr>
 
 # 💻 Tech Stack:
