@@ -60,16 +60,7 @@
    <a href="https://www.w3.org/Style/CSS/" title="CSS3" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/css3-%23157122.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   </a>
-     
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) 
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
- 
-
-<hr>
-
-# 💻 Tech Stack:
-
+    
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/flutter-%23000000.svg?style=for-the-badge&logo=flutter&logoColor=1CDAC5)
 ![Dart](https://img.shields.io/badge/dart-%23000000.svg?style=for-the-badge&logo=dart&logoColor=1CDAC5)
@@ -84,8 +75,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFD43B) 
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+ 
 <br />
 <hr>
 <h3> 🤝🏻 Connect with Me </h3>
