@@ -32,11 +32,11 @@
 ## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
 <p align="left">
-  <a href="https://github.com/Imtiaz513">
-    <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imtiaz513&theme=dark">
+  <a href="https://github.com/Snickers-khalil">
+    <img height="180em" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Snickers-khalil&theme=dark">
   </a>
-  <a href="https://github.com/Imtiaz513">
-    <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imtiaz513&layout=compact&theme=dark"/>
+  <a href="https://github.com/Snickers-khalil">
+    <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snickers-khalil&layout=compact&theme=dark"/>
   </a>
 </p>
 
