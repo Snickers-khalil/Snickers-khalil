@@ -66,8 +66,6 @@
 ![Dart](https://img.shields.io/badge/dart-%23000000.svg?style=for-the-badge&logo=dart&logoColor=1CDAC5)
 ![Java](https://img.shields.io/badge/java-%23000000.svg?style=for-the-badge&logo=java&logoColor=F25D50)
 ![C](https://img.shields.io/badge/c-%23000000.svg?style=for-the-badge&logo=c&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
